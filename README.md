@@ -1,4 +1,4 @@
-# Avacado-Project
+# Avocado-Project
 
 
 Avocado Project Problem Statement:
